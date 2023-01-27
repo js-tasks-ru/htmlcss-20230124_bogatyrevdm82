@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    height: 55px;
+    margin: 0;
+}
+
+nav {
+    background-color: #FF9A00;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+}
+
+nav a {
+    color: white;
+    margin: 0 10px;
+}
+
+main {
+    padding: 10px 5px 10px 5px;
+    background-color: green;
+}
+
+article {
+    background-color: blue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 25px;
+}
+
+footer {
+    background-color: #BD00FF;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    height: 55px;
+    margin: 0;
+}
