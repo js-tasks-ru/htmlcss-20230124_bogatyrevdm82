@@ -2,4 +2,6 @@
     width: 1440px;
     height: 1036px;
     background: #F9FAFC;
+    border-top: 1px solid #DDE2E5;
+    border-bottom: 1px solid #DDE2E5;
 }
